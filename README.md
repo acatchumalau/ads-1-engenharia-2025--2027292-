@@ -34,7 +34,12 @@ comunicação, simplicidade, feedback, coragem e respeito.
 
 ## 🔧 Ferramentas de Gestão de Desenvolvimento  
 ### 💪 GitHub / GitLab  
-Tanto o GitHub quanto o GitLab são plataformas populares que fornecem serviços de hospedagem de repositórios para o Git para projetos de código aberto
+Tanto o GitHub quanto o GitLab são plataformas populares que fornecem serviços de hospedagem de repositórios para o Git para projetos de código aberto e colaboração: O Github é a escolha preferencial devido á sua ampla comunidade. Para projetos corporativos e conformidade: O Gitlab é uma opção mais adequada devido aos seus recursos de segurança mais abrangente e planos pagos mais flexíveis.
 
 ### 🎮 Jira / Trello  
-(Explique como essas ferramentas auxiliam na organização e acompanhamento de tarefas.)
+Jira e Trello são ferramentas de gerenciamento de projetos e tarefas, sendo mais indicado para equipes de desenvolvimento de software:
+
+1- Ferramenta de gerenciamento de projetos e rastreamento de itens;
+2- Desenvolvida pela Atlassian;
+3- Ideal para equipes de software que precisam executar e oferecer suporte a software;
+4- Permite organiuzar informações importantes em cartões, com datas de entrega, anexos de arquivos e marcação de tarefas como "Feitas".
